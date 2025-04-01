@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "c:/Users/HP/Desktop/abus-rute-system",
+      "program": "c:/Users/HP/Desktop/abus-rute-system/build/Debug/outDebug"
+    }
+  ]
+}

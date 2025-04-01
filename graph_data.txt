@@ -1,0 +1,16 @@
+# Nodes
+NODES 1 2 3 4 5 6 7 8
+
+# Edges (Format: Node1 Node2 Weight)
+EDGES
+1 2 4
+1 3 1
+2 4 3
+2 5 6
+3 6 2
+4 7 5
+5 8 8
+6 8 7
+7 8 3
+
+

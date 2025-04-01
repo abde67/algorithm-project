@@ -1,3 +1,12 @@
+//This C++ program implements a Graph Data Structure with various operations 
+//like adding/deleting nodes, adding/deleting edges, updating edge weights, BFS and DFS traversals,
+//and reading from a file. 
+
+
+
+
+
+
 #include <iostream>
 #include <vector>
 #include <map>

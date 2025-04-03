@@ -3,7 +3,12 @@
 //and reading from a file. 
 
 
-
+//Name.                                       Id
+//1.Arsema Haylemariyam       GUR/02281 /15
+//2.Aisha Nurhussien                 GUR/ 00048 /16 
+//3.Abebech  Debebe                 GUR/02461/15
+//4.Ermiyas Aderajew                 GUR/02214/15
+//5.  Enchalew  Amsalu          GUR/02208/15 
 
 
 

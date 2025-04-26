@@ -1,14 +1,5 @@
-//This C++ program implements a Graph Data Structure with various operations 
-//like adding/deleting nodes, adding/deleting edges, updating edge weights, BFS and DFS traversals,
-//and reading from a file. 
 
 
-//Name.                                       Id
-//1.Arsema Haylemariyam       GUR/02281 /15
-//2.Aisha Nurhussien                 GUR/ 00048 /16 
-//3.Abebech  Debebe                 GUR/02461/15
-//4.Ermiyas Aderajew                 GUR/02214/15
-//5.  Enchalew  Amsalu          GUR/02208/15 
 
 
 
